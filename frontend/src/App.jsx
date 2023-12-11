@@ -1,7 +1,7 @@
 
 import './App.css'
 
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 // i want to access my api here
 // if you want to use something from backend we need to
 //install corse to make connection between frontend and backend
